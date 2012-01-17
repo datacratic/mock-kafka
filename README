@@ -1,0 +1,3 @@
+Mock kafka server
+================
+A simple socket server that responds to requests with mock responses
